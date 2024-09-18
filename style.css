@@ -29,6 +29,10 @@ h1 {
     element - 1
 */
 
+p#color-primary.green {
+    color: black;
+}
+
 #color-primary {
     color: blue;
 }
