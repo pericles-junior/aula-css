@@ -1,0 +1,21 @@
+/* Anatomia
+
+* Declaration
+* Seletor
+* {} - context
+* Properties
+* Property value
+*/
+
+
+body {
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 60px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
